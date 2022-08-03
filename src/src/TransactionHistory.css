@@ -1,0 +1,55 @@
+.history1{
+background-color: rgba(20,21,29,1);
+}
+/* style={{paddingRight:'120px',paddingTop:"30px",display:'flex',justifyContent:'flex-end'}} */
+.history2{
+  padding-right: 120px;  
+  padding-top: 30px;
+  display: flex;
+  justify-content: flex-end;
+}
+.history3{
+    background-color:   rgba(26,26,35,1);
+}
+/* style={{background:"#424242",color:'white'}} */
+.history4{
+    background: #424242;
+    color: white;
+}
+/* style={{color:'white',paddingLeft:'110px',paddingTop:'20px'}} */
+.history5{
+    color: white;
+    padding-left: 110px;
+    padding-top: 20px;
+}
+/* style={{fontSize:'28px'}}  */
+.history6{
+    font-size:28px ;
+}
+/* style={{ paddingTop: "10px",paddingBottom:'10px' }} */
+.history7{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+/* style={{
+    display:'flex',
+    justifyContent:'center',
+    backgroundColor: "#1a1a23",
+   
+    borderRadius: "15px",
+  }} */
+
+.history8{
+    display: flex;
+    justify-content: center;
+    background-color: #1a1a23;
+    border-radius: 15px;
+}
+/* style={{padding: "14px" }} */
+.history9{
+    padding: 14px;
+}
+/* style={{ color: "white" }} */
+.history10{
+    color: white;
+}

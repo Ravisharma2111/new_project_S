@@ -1,0 +1,49 @@
+/* style={{ backgroundColor: "rgba(20,21,29,1)" }} */
+.compare1{
+background-color: rgba(20,21,29,1) ;
+}
+/* style={{color:'white',paddingLeft:'119px',paddingTop:'50px'}} */
+.compare2{
+color: white;
+padding-left: 119px;
+padding-top: 50px;
+}
+.compare3{
+font-size: 28px;
+}
+/* style={{ paddingTop: "15px",paddingBottom:'1px' }} */
+.compare4{
+padding-top: 15px;
+padding-bottom: 1px;
+}
+/* } backgroundColor: "#1a1a23" */
+/* borderRadius: "15px", */
+.compare5{
+background-color: #1a1a23;
+border-radius: 15px;
+}
+/* style={{padding: "4px",dispaly:'flex', }} */
+.compare6{
+padding: 4px;
+display: flex;
+}
+/* style={{ color: "white" ,justifyContent:'flex-end'}} */
+.compare7{
+color: white;
+justify-content: flex-end;
+}
+.compare8{
+color: white;
+}
+/* style={{ paddingTop: "15px",paddingBottom:'1px' }} */
+.compare9{
+padding-top: 15px;
+padding-bottom: 1px;
+}
+.compare10{
+background-color: #1a1a23;
+border-radius: 15px;
+}
+.compare11{
+ padding: 14px;   
+}

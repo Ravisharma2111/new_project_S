@@ -1,0 +1,179 @@
+.headerSection{
+    background-color: #14151d;
+}
+.hedaerSection1{
+    display:flex;
+    justify-content: center;
+    color: white;
+    padding-top: 24px;
+}
+.hedaerSection2{
+    font-size:20px ;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding-top: 24px;
+
+}
+/* style={{display:'flex',justifyContent:'center',paddingTop:'12px'}} */
+.hedaerSection3{
+    display: flex;
+    justify-content: center;
+    padding-top: 12px;
+}
+/* style={{borderRadius:'40px',width:'80px',height:'42px',color:'white',backgroundColor:'#3f5fdf'}} */
+.hedaerSection4{
+    border-radius: 40px;
+    width: 80px;
+    height: 42px;
+    color: white;
+    background-color: #3f5fdf ;
+}
+/* style={{borderRadius:'40px',width:'110px',height:'42px',color:'white',backgroundColor:'#4850e5'}} */
+.hedaerSection5{
+    border-radius: 40px;
+    width: 110px;
+    height: 42px;
+    color: white;
+    background-color: #4850e5 ;
+}
+/* style={{ display: "flex",justifyContent: "center",paddingTop:'20px'}} */
+.hedaerSection6{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.hedaerSection7{
+    background:#202232;
+    width: 550px;
+    height: 220px;
+    border-radius: 21px;
+}
+/* style={{ display: "flex", */
+    /* justifyContent: "center",paddingTop:'28px'}}  */
+.hedaerSection8{
+    display: flex;
+    justify-content: center;
+    padding-top: 28px;
+    }
+.hedaerSection9{
+    background: #1a1a23;
+    width: 430px;
+    height: 100px;
+    border-radius: 5px;
+}
+.hedaerSection10{
+    display: flex;
+    justify-content: space-between;
+}  
+/* style={{display:'flex',justifyContent:'space-between'}} */
+.hedaerSection11{
+    padding-left: 13px;
+    padding-top: 15px;
+}
+.hedaerSection12{
+    color: white;
+    background: #4a4de6;
+    width: 80px;
+    height:40px ;
+    border-radius: 8px;
+}
+/* style={{paddingTop:'9px'}} */
+.hedaerSection13{
+    padding-top: 9px;
+}
+/* style={{paddingTop:'13px',paddingRight:'9px'}} */
+.hedaerSection14{
+    padding-top: 13px;
+    padding-right: 9px;
+}
+/* style={{width:'60px',height:'40px'  ,background:'#1a1a23',color:'white',}} */
+.hedaerSection15{
+width: 60px;
+height: 40px;
+background-color:#1a1a23 ;
+color:white;
+}
+/* style={{display: "flex", */
+    /* justifyContent: "center",paddingTop:'18px'}}  */
+.hedaerSection16{
+display: flex;
+justify-content: center;
+padding-top: 18px;
+}
+/* style={{color:'white' ,borderRadius:'8px' , height:'50px' ,width: "430px", background:'#5440e9'}}  */
+.hedaerSection17{
+color: white;
+border-radius: 8px;
+height: 50px;
+width: 430px;
+background: #5440e9 ;
+}
+/* style={{paddingLeft:'409px',color:"white",paddingTop:'17px'}} */
+.hedaerSection18{
+padding-left: 409px;
+color: white;
+padding-top: 17px;
+}
+.hedaerSection19{
+ font-family: Inter
+}
+/* style={{ display:'flex',justifyContent:'center'}}  */
+.hedaerSection20{
+    display: flex;
+    justify-content: center;
+}
+.hedaerSection21{
+width: 545px;
+background:#14151d;
+border-radius: 21px;
+}
+/* style={{background:'#14151d',color:'white'}} */
+.hedaerSection22{
+background: #14151d;
+color: white;
+}
+/* style={{paddingTop:'15px', display:'flex',justifyContent:'center'}} */
+.hedaerSection23{
+padding-top: 15px;
+display: flex;
+justify-content: center;
+}
+.hedaerSection24{
+width: 545px;
+background: #14151d;
+border-radius: 21px;
+}
+/* style={{background:'#14151d',color:'white'}}  */
+.hedaerSection25{
+background: #14151d;
+color: white;
+}
+/* style={{ paddingTop:'15px',display:'flex',justifyContent:'center'}} */
+.hedaerSection26{
+padding-top: 15px;
+display: flex;
+justify-content: center;
+}
+.hedaerSection27{
+width: 545px;
+background: #14151d;
+border-radius: 21px;
+}
+/* style={{background:'#14151d',color:'white'}}  */
+.hedaerSection28{
+background: #14151d;
+color: white;
+}
+/* style={{paddingTop:'15px', display:'flex',justifyContent:'center'}} */
+.hedaerSection29{
+padding-top: 15px;
+display: flex;
+justify-content: center;
+} 
+.hedaerSection30{
+    width: 545px;
+    background: #14151d;
+    border-radius: 21px;
+}

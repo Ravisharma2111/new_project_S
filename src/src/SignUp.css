@@ -1,0 +1,28 @@
+.sign1{
+    background-color: #1a1a23;
+    display: flex;
+    color:'white';
+    justify-content: center;
+    align-items: center;
+}
+.sign2{
+    /* width: 100%; */width: 30%;
+    page-break-before: 20px;
+    background-color: #1a1a23;
+    padding-top: 90px;
+    color: white;
+    height: 660px;
+}
+.sign3{
+padding-top: 10px;
+background-color: #1a1a23;
+}
+
+.sign6{
+    color: white;
+    background-color:#202232;  
+}
+.sign7{
+    text-align: center;
+    margin-top: 30px;
+}
