@@ -1,0 +1,94 @@
+/* style={{ backgroundColor: "rgba(20,21,29,1)" }} */
+.wallet1{
+background-color:rgba(20,21,29,1) ;
+}
+/* style={{paddingRight:'120px',paddingTop:"30px",display:'flex',justifyContent:'flex-end'}} */
+.wallet2{
+    padding-right: 120px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: flex-end;
+}
+/* style={{backgroundColor:'rgba(26,26,35,1)'}} */
+.wallet3{
+    background-color:rgba(26,26,35,1);
+}
+/* style={{background:"#424242",color:'white'}} */
+.wallet4{
+    background-color: #424242;
+    color: white;
+}
+/* style={{color:'white',paddingLeft:'119px',paddingTop:'30px'}} */
+.wallet5{
+ color:white;   
+ padding-left: 119px;
+ padding-top: 30px;
+}
+.wallet6{
+    font-size: 28px;
+}
+/* style={{display:'flex',Width:'100%',paddingTop:'30px', height:'120px'}} */
+.wallet7{
+    display: flex;
+    width: 100%;
+    padding-top: 30px;
+    height: 120px;
+}
+/* style={{border:'1px solid ',borderRadius:'9px'  ,paddingTop:'15px' ,width:"52%",backgroundColor:'rgba(26,26,35,1)'}} */
+.wallet8{
+   border: 1px solid;
+   border-radius: 9px;
+   padding-top: 15px;
+   width: 52%;
+   background-color:rgba(26,26,35,1) ;
+}
+.wallet9{
+  color: white;  
+}
+/* style={{border:'1px solid',borderRadius:'9px',width:"18%",backgroundColor:'rgba(26,26,35,1)',paddingTop:"30px"}} */
+.wallet10{
+    border: 1px solid;
+    border-radius: 9px;
+   padding-top: 30px;
+   width: 18%;
+   background-color:rgba(26,26,35,1) ;
+}
+/* style={{ paddingTop: "30px",paddingBottom:'30px' }} */
+.wallet11{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+/* style={{
+    display:'flex',
+    justifyContent:'center',
+    backgroundColor: "#1a1a23",
+   
+    borderRadius: "15px",
+  }} */
+.wallet12{
+display: flex;
+justify-content: center;
+background-color: #1a1a23;
+border-radius: 15px;
+}
+.wallet13{
+padding: 24px;
+}
+.wallet14{
+
+}
+.wallet15{
+
+}
+.wallet16{
+
+}
+.wallet17{
+
+}
+.wallet18{
+
+}
+.wallet19{
+
+}

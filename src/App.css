@@ -1,0 +1,104 @@
+
+.app1{
+background-color: rgba(20,21,29,1);
+}
+/* style={{
+    paddingTop: "18px",
+    display: "flex",
+    justifyContent: "center",
+    background: "#14151D",
+  }} */
+.app2{
+padding-top: 18px;
+display: flex;
+justify-content: center;
+background-color: #14151D;
+}
+/* style={{
+    background:'#1a1a23',
+    width: "1150px",
+    height: "300px",
+    borderRadius: "15px",
+    color: "white",
+  }} */
+.app3{
+background-color: #1a1a23;
+width: 1150px;
+height: 300px;
+border-radius: 15px;
+color: white;
+}
+/* style={{width:'100%',display:'flex'}} */
+.app4{
+width: 100%;
+display: flex;
+}
+/* style={{width:'74%',paddingRight:'20px'}} */
+.app5{
+width:"74%";
+padding-right: 20px;
+}
+/* style={{ paddingTop: "65px", }} */
+.app6{
+padding-top: 65px;
+}
+/* style={{paddingTop:'25px'}} */
+.app7{
+padding-top: 25px;
+}
+/* style={{width:'5%',backgroundColor:'rgba(26,26,35,1)',paddingTop:'39px',paddingLeft:'100px'}} */
+.app8{
+width: 5%;
+background-color: rgba(26,26,35,1) ;
+padding-top: 39px;
+padding-left: 100px;
+}
+/* style={{width:'160px',height:'160px'}} */
+.app9{
+width: 160px;
+height: 160px;
+}
+/* style={{
+    width:"400px",
+     height:'70px',
+   paddingLeft:"140px",
+     paddingTop: "30px",
+   borderRadius:'10px'
+   }} */
+.app10{
+width:400px ;
+height: 70px;
+padding-left: 140px;
+padding-top: 30px;
+border-radius: 10px;
+}
+.app11{
+color: white;
+}
+/* style={{ paddingTop: "30px",paddingBottom:'30px' }} */
+.app12{
+padding-top: 30px;
+padding-bottom: 30px;
+}
+/* 
+style={{
+    display:'flex',
+    justifyContent:'center',
+    backgroundColor: "#1a1a23",
+    paddingTop: "20px",
+    borderRadius: "15px",
+  }} */
+.app13{
+display: flex;
+justify-content: center;
+background-color:#1a1a23 ;
+padding-top: 20px;
+border-radius: 15px;
+}
+.app14{
+padding: 24px;
+}
+/* style={{ color: "white" }} */
+.app15{
+color: white;
+}

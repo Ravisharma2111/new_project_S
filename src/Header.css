@@ -1,0 +1,86 @@
+/* 
+        style={{ backgroundColor:'rgba(32,34,50,1)' }}
+        
+      */
+.header1{
+background-color:rgba(32,34,50,1) ;
+}
+/* style={{ width: "40px", height: "30px", marginLeft: "25px" }} */
+.header2{
+width: 40px;
+height: 30px;
+margin-left: 25px;
+}
+/* style={{ color: "white",paddingLeft:'4px' }} */
+.header3{
+color:white;
+padding-left: 4px;
+}
+.header4{
+margin-right: 90px;
+}
+/* style={{
+    background:'rgba(74,77,230,1)',
+    color: "white",
+    width: "60px",
+    height: "30px",
+    borderRadius: "40px",
+  }} */
+.header5{
+background-color:rgba(74,77,230,1) ;
+color: white;
+width: 60px;
+height: 30px;
+border-radius: 40px;
+}
+/* style={{ display: "flex" }} */
+.header6{
+display: flex;
+}
+.header7{
+padding-left: 120px;
+}
+/* style={{
+    color: "white",
+    border:'5px solid #202232',
+    background: "rgba(47,49,64,1)",
+    width: "160px",
+     height: "50px",
+  }} */
+.header8{
+color: white;
+border: 5px solid #202232;
+background-color:rgba(47,49,64,1) ;
+width: 160px;
+height: 50px;
+}
+.header9{
+padding-left: 190px;
+}         
+/* style={{
+    border:'5px solid #202232',
+   backgroundColor:'#202232',
+    color: "white",
+    width: "130px",
+    height: "50px",
+  }} */
+.header10{
+border: 5px solid #202232;
+background-color: #202232;
+color: white;
+width: 130px;
+height: 50px;
+}
+/* style={{ background: "#00061a", color: "white" }} */
+.header11{
+background-color: #00061a;
+color: white;
+}
+.header12{
+color: white;
+}
+/* style={{ background: "#00061a", color: "white" }} */
+.header13{
+background-color: #00061a;
+color: white;
+}

@@ -1,0 +1,14 @@
+  /* style={{ width: "1339px", height: "69px",backgroundColor:'rgba(26,26,35,1)' }} */      
+.section1{
+width: 1339px;
+height:69px;
+background-color:rgba(26,26,35,1) ;
+}
+/* style={{textDecorationLine: 'underline',color:'white'}} */
+.section2{
+    text-decoration: underline;
+    color: white;
+}
+.section3{
+    color: white;
+}

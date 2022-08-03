@@ -1,0 +1,36 @@
+
+.icon-rtl {
+    padding-right: 90px;
+    height:'150px';
+    WIDTH:'40px';
+    background: url("https://static.thenounproject.com/png/101791-200.png") no-repeat right;
+    background-size: 25px;
+    background-color: #1a1a23;
+   color:'white'
+  }
+
+  table {
+    border-collapse: separate;
+    padding-bottom: "5px";
+    border-spacing: 0 25px;
+  }
+  
+  th {
+     color: white;
+  }
+  
+  th,
+  td {
+    width: 290px;
+    text-align: center;
+    /* border: 1px solid black; */
+    padding: 15px;
+  }
+  .Hello  {
+    background: linear-gradient(270deg, #6231ED -9.12%, #4A4DE6 24.42%, #3A69DC 67.62%, #7ED6C4 122.3%);
+  }
+  
+.lplplp{
+    background-color: 'red';
+    color:'green'
+}
